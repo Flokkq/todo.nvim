@@ -13,6 +13,16 @@ fi
 echo "Preparing $1..."
 msg="# managed by release.sh"
 
+# update the README.md file with the new version tag
+if [ -f "README.md" ]; then
+  echo "Updating README.md with the new version tag..."
+  sed -i.bak "s/v[0-9]\+\.[0-9]\+\.[0-9]\+/$1/g" README.md
+  rm README.md.bak
+  echo "README.md updated!"
+else
+  echo "README.md not found. Skipping version replacement."
+fi
+
 # update the changelog
 git-cliff --config .cliff/default.toml --tag "$1" > CHANGELOG.md
 git add -A && git commit -m "chore(release): prepare for $1"
