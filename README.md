@@ -4,7 +4,9 @@ A minimalist Neovim plugin for editing todo files. You can start editing with `:
 
 | Key |    Description                         |
 |------|---------------------------------------|
-| `<leader>to`   | Open spf TODO.md file             |
+| `<leader>to`   | Open spf TODO.md file       |
+
+Use `<CR>` to select a file in the file picker.
 
 ## Setup
 
