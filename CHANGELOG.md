@@ -1,6 +1,23 @@
 # Changelog
 
 
+## [0.2.0](https://github.com/Flokkq/https://github.com/orhun/git-cliff/blob/main/cliff.toml/compare/v0.1.0..v0.2.0) - 2025-05-02
+
+
+
+
+### 🚀 Features
+
+- Search upwards and downwards and open file picker if multiple files are found - ([f27b019](https://github.com/Flokkq/https://github.com/orhun/git-cliff/blob/main/cliff.toml/commit/f27b01910ccf214b496c7f6d324c4a9ca238d3cc))
+
+### ⚙️ Miscellaneous Tasks
+
+- *(repo)* Fix image res maybe - ([8382112](https://github.com/Flokkq/https://github.com/orhun/git-cliff/blob/main/cliff.toml/commit/8382112df850a724188fa482b2e5a6f2e34dcd7b))
+- *(repo)* Add screenshots to README - ([8951f40](https://github.com/Flokkq/https://github.com/orhun/git-cliff/blob/main/cliff.toml/commit/8951f4039351d61d86f1f46d6965e9e83e73a161))
+- *(repo)* Update README - ([a4fde47](https://github.com/Flokkq/https://github.com/orhun/git-cliff/blob/main/cliff.toml/commit/a4fde472b2743779cae028f9cec63ef6f153a0c2))
+- *(repo)* Update README.md - ([f741aff](https://github.com/Flokkq/https://github.com/orhun/git-cliff/blob/main/cliff.toml/commit/f741affc4ec7b250bb14dc08da469b950bf5daaf))
+
+
 ## [0.1.0] - 2025-05-01
 
 

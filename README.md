@@ -32,7 +32,7 @@ Add the following configuration to use `todo.nvim`.
 ```lua
 {
   "flokkq/todo.nvim",
-  version = "v0.1.0",
+  version = "v0.2.0",
 }
 ```
 
@@ -41,7 +41,7 @@ Add the following configuration to use `todo.nvim`.
 ```lua
 use {
   "flokkq/todo.nvim",
-  tag = "v0.1.0",
+  tag = "v0.2.0",
 }
 ```
 
