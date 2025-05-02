@@ -8,6 +8,20 @@ A minimalist Neovim plugin for editing todo files. You can start editing with `:
 
 Use `<CR>` to select a file in the file picker.
 
+<details>
+    <summary>Click to expand screenshots</summary>
+    <p align="center">
+          <img src="./.screenshots/preview.png"
+               alt="Preview window"
+               width="650">
+    </p>
+    <p align="center">
+          <img src="./.screenshots/buffer.png"
+               alt="Buffer window"
+               width="650">
+    </p>
+</details>
+
 ## Setup
 
 Add the following configuration to use `todo.nvim`.
