@@ -13,12 +13,13 @@ Use `<CR>` to select a file in the file picker.
     <p align="center">
           <img src="./.screenshots/preview.png"
                alt="Preview window"
-               width="650">
+               width="1500">
     </p>
     <p align="center">
           <img src="./.screenshots/buffer.png"
                alt="Buffer window"
-               width="650">
+               width="1500">
+          <p>IGNORE THE SPELLING LMFAO</p>
     </p>
 </details>
 
